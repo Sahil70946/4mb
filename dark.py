@@ -247,7 +247,7 @@ async def attack(update: Update, context: CallbackContext):
             f"*⚔️ Attack Launched! ⚔️*\n"
             f"*🎯 Target: {ip}:{port}*\n"
             f"*🕒 Duration: {duration} seconds*\n"
-            f"*🔥 Let the battlefield SAHIL! 💥*"\n"@kasukabe0
+            f"*🔥 Let the battlefield SAHIL! 💥*"
         ),
         parse_mode='Markdown'
     )
